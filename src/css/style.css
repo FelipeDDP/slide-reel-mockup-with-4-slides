@@ -15,9 +15,6 @@
     position: absolute;
     display: flex;
     transition: opacity 0.6s ease-in-out;
-}
-
-.slide-reel .hidden {
     opacity: 0;
     visibility: hidden;
 }
@@ -72,19 +69,19 @@
     font-size: 30px;
 }
 
-.slide-reel .slide .text-box .btn.pink {
+.slide-reel .slide .text-box .pink {
     color: #C50000;
 }
 
-.slide-reel .slide .text-box .btn.green {
+.slide-reel .slide .text-box .green {
     color: #D9DD10;
 } 
 
-.slide-reel .slide .text-box .btn.orange {
+.slide-reel .slide .text-box .orange {
     color: #A63A17;
 } 
 
-.slide-reel .slide .text-box .btn.blue {
+.slide-reel .slide .text-box .blue {
     color: #10ACDD;
 } 
 
